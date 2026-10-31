@@ -1,0 +1,8 @@
+# Build outputs
+*.o
+*.elf
+*.bin
+*.img
+*.d
+*.map
+build/
